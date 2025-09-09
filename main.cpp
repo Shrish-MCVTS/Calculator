@@ -53,6 +53,6 @@ cout << num2 << endl;
 mod = num1int%num2int;
 cout << "The modulus is..." << endl;
 cout << mod << endl;
-cout << "You can't talk the modulas of zero" << endl;
     return 0;
 }
+
