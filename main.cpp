@@ -53,6 +53,17 @@ cout << num2 << endl;
 mod = num1int%num2int;
 cout << "The modulus is..." << endl;
 cout << mod << endl;
+/*
+    if(num2int!=0.0){
+mod = num1int%num2int;
+cout << "The modulus is..." << endl;
+cout << mod << endl;
+}else{
+cout << "You can't take the modulus of 0!" << endl;
+}
+I was bored, so I did it, but I didn't know if I should edit it as it's past the due date.
+    */
     return 0;
 }
+
 
